@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "image": "https://s3-alpha-sig.figma.com/img/98d6/ce68/ca05465aa55ba84ace8005d1e27d304e?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b7gtjlo6D-Qj9yTYmyC4f6E-DnP3YsbBPbDcvmuoshVU~bz7EcJwPOT7GI5OyoKLuTVZZ-z2XdM-cSwXb11QaqZDknMgY0HvKn27X7k08SHUttzRmOnV3IistD8ZjLRdSXiyO-MY0mqlTVBGwvOD7tUgN~~5c89lY1Pcb6GKist0eWMmX9ahOMN~Nz1nXdB37vX-YKxoPlbazhGqm1-AC~oJxRyqWe9ZIz8zNJAjXlGwF26eki413jWhR2HzcFXfk5nniPn~XpknaOFhW4G9kPhImh42jY15-lMpOQvz0KvutwHPRroj816GL77H5cDmpAcIpjXPIrJeD3NADPH9yA__",
+    "name": "Оборудование для анастезиологии",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 10000
+  },
+  {
+    "id": 2,
+    "image": "https://s3-alpha-sig.figma.com/img/443a/df0a/0f5efbf1e358d300d90229a39cb8e16c?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pEc5X2cSsQ2AmEINmeEUd5hEBhlAvFy5Gg7WsdPUVqUr-Vguqaon1SQh85ZmhXp~iy00ovNRZMXN9ceDjGNizfLhkKRmXz-1Z~S9EG19jbzPgXOlf6kzJvL2XBGEBZasUZspz2vKkd1xvXpYnUCCrbyA8FuQFmRQMHlDo-WXZOwMfsLWTJ~aFOb2nbrP9qCPb6TeMYhLBLQoNrOEarfVbLF5murrY7Mt~NT1~qCprd4II6pix0vx7NOGL55kU~FmHF3mNkT9ODRDGgdIQG5Rcs4vfIEhtuXQW20hJlQOLaQED1ASoJDtgp5txe8jER9CrIP5wsqMz6sK29mLPu3CmA__",
+    "name": "Дерматологическое оборудование",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 9500
+  },
+  {
+    "id": 3,
+    "image": "https://s3-alpha-sig.figma.com/img/d2e6/71b1/8132204915c34ae4aa933a3947a30dfe?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aaskgf7k0n2pRrg2oYIBIEqFboDJ-SbTptvKfBXWHSS3CNoynAQDWnCvgDMbopT6OCjPTXWWsOysflaOWqi2b2WlDBJAmX0GyU-4lb7jn4zfwUGlijV5Y8PbXMFkKgCW~YS9muxMuygKlE~YNY63c6stgP3gVI~2fLZwGtUgfKZoS8kyVgkwx2lePR6H2DFTQCJVqsoNYjdFZ5jxXJT9atSetpVldsxb2c0bAXmHqKbY0l648d3UpIhcVHpyKKusS4ry-6PDXMUhcyXycw7gAl0gr9P01mbUPEbD67wpc16psy3Z6ZWU6ev8luYsA7vFk8lll-6lo5YuSuY8nNO~uA__",
+    "name": "Мебель для медецинских целей",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 12000
+  },
+  {
+    "id": 4,
+    "image": "https://s3-alpha-sig.figma.com/img/a7fc/77f0/0a4a44e456b52c0aece1ce64da976df8?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TP-xdykYwhQj-pWcTCImTeOjOZqTOj619rL16ul0Wj4JiapSuzJS6t6ZyLrpU9hs9l0shtWf4~kv9MXLwd6azcuwD9wo1sSZFQAK2y8N3hyoB9eDiSCY1bRbd5OgiNoGuyAsWFFvZyNOOtJuSEb9mOmIccNGMgCylKzIt4F7skIp~-8fImWizxjqfBrYZNLDeWNocDtYOGU1X~G6lioocGtAJqapesDvOC~tYcREBdZfyhJxShQDNWZ~fALF4BH8xRKZSWlGF5E4f1TZ-mpIpiirIv17KoROextNW8xyiZo~trXNRLhfs4yxaxOKve3gHKr1Gxh9AJ4a-13~Hk3ukw__",
+    "name": "Ветеринарное оборудование",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 6000
+  },
+  {
+    "id": 5,
+    "image": "https://s3-alpha-sig.figma.com/img/122b/026c/71cb144ee8b206b9ff0b172930f31d18?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Hkihmjhhf-KQzZUHH93e7YeXIv2QanAelVOkz2a5X0u3wPOo8F40NmzoJW-UOuD5PFFIudhNMbN3LpGtauLiWjqLFQGpIj22kqI00KgMT5kZm9WyI8TvxZvrwZ6p-mCPhCSgx-uMYmiIsp2O-ehIgtWIzMaGlvcxRSIa-42qJk5vO9Rmbb9ukCFh2xpRbKWnhRjC8FJ5sXfEFuBDNWzA4MHdoixXfeGHsNMMAxlwthN923ZAeQSLXnlnSCrv82sj~CEGrnY2OlcyV-nKzCLlLAdvHiJnssBHXAUNMozB7dYZ45TOq8KxQ98xQfTDhtWLBsNf4V0F1rlC7Y6BCdUIZg__",
+    "name": "Дерматологическое оборудование",
+    "surname": "Анализатор мочи MIND UA-66",
+    "katalog": "Хирургические инструменты",
+    "price": 11000
+  },
+  {
+    "id": 6,
+    "image": "https://s3-alpha-sig.figma.com/img/911a/8ff1/725e2a20227c48fcf043206f0122ac3f?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jIQMY5kQNF0u82uY0HNUDC5baWHFuhSJSqY5fpMVpkp1bCEysn578IJEyTd84rbLPUfLI7TMKGFCVRckYYH22MFgERDQojvvIBbawHQSBBo7wUmwuSwDnwbQvaW3GH0k-4mf~HMttjzAkr3-FhMu3Jn37YbkVBDltFzDVEagWw8ZSlwLquVXqrpeGmS8wxfT24oQhvNYYXK1XN4Nxij1vWQ085r73wgf~E59RoA7DVgjFeMp~qVO9Y2QcLzdkn3DD4PCa-5RKIWNaVRPni9AkcwD0RLmQqPtms72yXjUypXiZ5F77qG9b4uB39uk7mE~05AozDD2iEVJJ7UNms~8Mg__",
+    "name": "Оборудование для анастезиологии",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 14500
+  },
+  {
+    "id": 7,
+    "image": "https://s3-alpha-sig.figma.com/img/8b8d/d3ac/056e581a12e35194232a9673adc863f6?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nd1wENZRzeY817uiu95-XF5pwKw9ZpcIaOm8u7ld2Z5ap3phulyG1N6lGB0kIAXcdvyViF6Cv0HRjlVppv6FSux-smAAdB-6h5tKPe23sDrM-dJ-cH3HcPnsRc-iEn0F3BWPni0xZxZdy1FdRC3zn3MDs3knDXn0c89cthzdkUkAvnMz6ZCLVWfP8XznB1k32Ey5GYqkKNjggaz2PI1fwRE02fLhAuPQmoT-WKds~Ugp7Iuis4qlp5CBdgK2pyLlEVmYzgCQ5Mo1ZYbAgbb5or2sKzwCbQbH2nDcUy9XZt3NHolDS3WxP6Xyuj63fxvhy1Uti0Ob4c40qJfla26xog__",
+    "name": "Ветеринарное оборудование",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 7300
+  },
+  {
+    "id": 8,
+    "image": "https://s3-alpha-sig.figma.com/img/f7f0/11cd/1857ddec5df3e6949f45c4f67f2aab99?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ibRzzQ6ZiuDyqaPHTH5L3JbK3NlO2nwPedBFkCUlZAkhBvcwxY5mR8qrLmMy1bfOZp5Qi0yepkF1hYroN6eHW9PC2Ayk0jLsM9F9TdBcEPii-0WNOAbE22-NnhKFpjEdId3XbfV8iCh1OAHdnL4RzHY55-~hx9Vp84E6IEhLwWwSpvjm8RDA3O1IrllKjKEEG29s5uDl~a3ksy1YBFxL2V4PY5Dbbq1VXYEUJNXkrr~qMea1tpxQ1fQ~MEF1H~Tr3r6r~bjpThm~vVSpW6SayA0XknhbNXSHZU-3VZprbA5zx~Sm4Xn5jLveyZ8tsUAlJyYPcZdVNv3zdihK1C155Q__",
+    "name": "Анестезиология",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 4600
+  },
+  {
+    "id": 9,
+    "image": "https://s3-alpha-sig.figma.com/img/b318/1fe9/d580ef82060fb2b52b533450c6ff1a53?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SIH2kpyVpTsEOiYRU8h8NtrzrY03DX3xPrz1-lej6l27c37z1Iv8a5yAK9KSYS10FlSHcnOS~S~l5pBBj~TNxPaIEwLpckmiRHNPLcbb9pW-sBWfDpEMO0lPOc9M2oHyx9Aoyg8M4xqkZ9woW77ujcACCQuVq9E3MoE7eYpIa-oNAlSbmX0oTDJpe9QemKHw3gEtG9RweDG6ELKxuiYr46DAWaJ~BGWkjQATTr-R~tZH4IflHfT4nEQdnqwGmoTI8fG4qE4lkD5qHbvQEavXhmPUF-gu55-9xZAkQB6sPn0tc1rBpvE8SV5kCSaCLq7xVqRAe3R9vq7MhQr7XLBgfw__",
+    "name": "Физиотерапевтическое оборудование",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 18700
+  },
+  {
+    "id": 10,
+    "image": "https://s3-alpha-sig.figma.com/img/e83e/9f8f/875cf82a5ce05b4ba864ce7881e23afc?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=T-VHod1Xe2nf2WDHMm6UcFAsDr-kjeXMWqx1v6bcfG~7tH8nwF8McvvLa7zQ7Aaim~oqoOSVUNSU~tpQV679j-E2arKLZBtu2s1fWftFaYGJjMm-l0EyI~dT~UB8fR6Ko9d~tYA7HX~V6OYd7UQUtntpmWxUfTlo2YwxP1wUGg~EFYrBltMwC7ZaOtaKyJ1mtCPYC0d-LunbbA6LyoTjB4UWmi0jd2w9ISUxPnJks6BmLVyFh0z6Dpu1cY3OW7arGsMduBuMxegkEqF3IR4AQV6FPf5Df9-sIzeXV3Ts6Xl9xng1kZuIN1lOhhGO7lx-yugD0SlVXNFf9UJNYMHwrA__",
+    "name": "Стоматологическое оборудование",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 9100
+  }
+]
