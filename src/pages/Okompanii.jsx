@@ -1,16 +1,16 @@
 import React, { useEffect } from "react";
 import { IoIosArrowForward } from "react-icons/io";
 import { NavLink } from "react-router-dom";
-import AboutHero from "../components/AboutHero";
-import Fakt from "../components/Fakt";
-import Partner from "../components/Partner";
-import Doctor from "../components/Doctor";
-import Marquee from "../components/Marquee";
-import Pochemu from "../components/Pochemu";
-import Brend from "../components/Brend";
-import Location from "../components/Location";
-import Sertifikat from "../components/Sertifikat";
-import Konsultatsiya_loc from "../components/Konsultatsiya_loc";
+import AboutHero from "../components/CompanyAbout/AboutHero";
+import Fakt from "../components/Uslugi/Fakt";
+import Partner from "../components/CompanyAbout/Partner";
+import Doctor from "../components/CompanyAbout/Doctor";
+import Marquee from "../components/HomeComp/Marquee";
+import Pochemu from "../components/HomeComp/Pochemu";
+import Brend from "../components/HomeComp/Brend";
+import Location from "../components/HomeComp/Location";
+import Sertifikat from "../components/CompanyAbout/Sertifikat";
+import Konsultatsiya_loc from "../components/DostavkaComp/Konsultatsiya_loc";
 
 const Okompanii = () => {
   useEffect(() => {

@@ -1,11 +1,11 @@
 import React, { useEffect } from "react";
 import { IoIosArrowForward } from "react-icons/io";
 import { NavLink } from "react-router-dom";
-import PodklyuchHero from "../components/PodklyuchHero";
-import PodklyuchSelect from "../components/PodklyuchSelect";
+import PodklyuchHero from "../components/PodklyuchComp/PodklyuchHero";
+import PodklyuchSelect from "../components/Reanimation/PodklyuchSelect";
 import Kompleks from "../components/Kompleks";
-import Vopros from "../components/Vopros";
-import Konsultatsiya_loc from "../components/Konsultatsiya_loc";
+import Vopros from "../components/DostavkaComp/Vopros";
+import Konsultatsiya_loc from "../components/DostavkaComp/Konsultatsiya_loc";
 
 const Reanimatsiya = () => {
   useEffect(() => {
@@ -36,8 +36,8 @@ const Reanimatsiya = () => {
               Палата реанимации и интенсивной терапии
             </p>
           </div>
-          <PodklyuchHero />
-          <PodklyuchSelect />
+          <PodklyuchHero/>
+          <PodklyuchSelect/>
           <Kompleks />
         </div>
         <Vopros />

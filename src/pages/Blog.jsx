@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
-import Blog_hero from "../components/Blog_hero";
+import Blog_hero from "../components/Blog/Blog_hero";
 import { NavLink } from "react-router-dom";
 import { IoIosArrowForward } from "react-icons/io";
-import Mail from "../components/Mail";
+import Mail from "../components/HomeComp/Mail";
 
 const Blog = () => {
   useEffect(() => {

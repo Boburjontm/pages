@@ -1,10 +1,10 @@
 import React, { useEffect } from "react";
 import { IoIosArrowForward } from "react-icons/io";
 import { NavLink } from "react-router-dom";
-import Oplatahero from "../components/Oplatahero";
-import Poryadok from "../components/Poryadok";
-import Usloviya from "../components/Usloviya";
-import Konsultatsiya_loc from "../components/Konsultatsiya_loc";
+import Oplatahero from "../components/Cash/Oplatahero";
+import Poryadok from "../components/Cash/Poryadok";
+import Usloviya from "../components/Uslugi//Usloviya";
+import Konsultatsiya_loc from "../components/DostavkaComp/Konsultatsiya_loc";
 
 const Oplata = () => {
   useEffect(() => {
@@ -25,10 +25,10 @@ const Oplata = () => {
           </div>
           <Oplatahero />
           <Poryadok />
-          <Usloviya />
+          <Usloviya/>
         </div>
         <div className="mb-[150px]">
-          <Konsultatsiya_loc />
+          <Konsultatsiya_loc/>
         </div>
       </div>
     </>

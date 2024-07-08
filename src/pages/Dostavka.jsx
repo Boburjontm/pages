@@ -1,15 +1,15 @@
 import React, { useEffect } from "react";
 import { IoIosArrowForward } from "react-icons/io";
 import { NavLink } from "react-router-dom";
-import DostavkaHero from "../components/DostavkaHero";
-import Pochemu from "../components/Pochemu";
-import Udobno from "../components/Udobno";
-import Pravila from "../components/Pravila";
-import Vopros from "../components/Vopros";
-import Ofis from "../components/Ofis";
-import Dokument from "../components/Dokument";
-import Konsultatsiya from "../components/Konsultatsiya";
-import Mail from "../components/Mail";
+import DostavkaHero from "../components/DostavkaComp/DostavkaHero";
+import Pochemu from "../components/HomeComp/Pochemu";
+import Udobno from "../components/DostavkaComp/Udobno";
+import Pravila from "../components/DostavkaComp/Pravila";
+import Vopros from "../components/DostavkaComp/Vopros";
+import Ofis from "../components/DostavkaComp/Ofis";
+import Dokument from "../components/DostavkaComp/Dokument";
+import Konsultatsiya from "../components/CompanyAbout/Konsultatsiya";
+import Mail from "../components/HomeComp/Mail";
 
 const Dostavka = () => {
   useEffect(() => {

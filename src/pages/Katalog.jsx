@@ -1,13 +1,13 @@
 import React, { useEffect } from "react";
-import Katalogdiv from "../components/Katalogdiv";
-import Kabinet from "../components/Kabinet";
-import Pochemu from "../components/Pochemu";
-import Brend from "../components/Brend";
-import Novosti from "../components/Novosti";
-import Vopros from "../components/Vopros";
-import Location from "../components/Location";
-import Mail from "../components/Mail";
-import Products from "../components/Products";
+import Katalogdiv from "../components/CatalogComp/Katalogdiv";
+import Kabinet from "../components/HomeComp/Kabinet";
+import Pochemu from "../components/HomeComp/Pochemu";
+import Brend from "../components/HomeComp/Brend";
+import Novosti from "../components/HomeComp/Novosti";
+import Vopros from "../components/DostavkaComp/Vopros";
+import Location from "../components/HomeComp/Location";
+import Mail from "../components/HomeComp/Mail";
+import Products from "../components/HomeComp/Products";
 
 const Katalog = () => {
   useEffect(() => {

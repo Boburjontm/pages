@@ -2,11 +2,11 @@ import React, { useEffect } from "react";
 import { IoIosArrowForward } from "react-icons/io";
 import { NavLink } from "react-router-dom";
 import Kompleks from "../components/Kompleks";
-import Vopros from "../components/Vopros";
-import Location from "../components/Location";
-import Kab_hero from "../components/Kab_hero";
-import Pochemu from "../components/Pochemu";
-import Mail from "../components/Mail";
+import Vopros from "../components/DostavkaComp/Vopros";
+import Location from "../components/HomeComp/Location";
+import Kab_hero from "../components/AboutComp copy/Kab_hero";
+import Pochemu from "../components/HomeComp/Pochemu";
+import Mail from "../components/HomeComp/Mail";
 
 const Podklyuch = () => {
   useEffect(() => {

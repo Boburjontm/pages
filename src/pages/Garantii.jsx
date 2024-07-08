@@ -1,9 +1,9 @@
 import React from "react";
-import GarantiHero from "../components/GarantiHero";
-import Uslug from "../components/Uslug";
-import Vnimanie from "../components/Vnimanie";
-import Location from "../components/Location";
-import Konsultatsiya_loc from "../components/Konsultatsiya_loc";
+import GarantiHero from "../components/Warranty/GarantiHero";
+import Uslug from "../components/Warranty/Uslug";
+import Vnimanie from "../components/Warranty/Vnimanie";
+import Location from "../components/HomeComp/Location";
+import Konsultatsiya_loc from "../components/DostavkaComp/Konsultatsiya_loc";
 
 const Garantii = () => {
   return (
@@ -15,6 +15,7 @@ const Garantii = () => {
           <Vnimanie />
           <div className="mb-[150px]">
             <Konsultatsiya_loc />
+            <Location/>
           </div>
         </div>
       </div>

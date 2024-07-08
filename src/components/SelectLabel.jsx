@@ -40,7 +40,7 @@ const SelectLabel = () => {
         <button
           type="button"
           onClick={handleToggle}
-          className="flex items-center w-[146px] h-[37px] justify-between rounded-full shadow-sm px-[15px] py-2 bg-[#EFEFEF] text-[14px] font-medium text-[#7A7687] hover:bg-gray-200 focus:outline-none"
+          className="flex items-center w-[146px] h-[37px] justify-between rounded-full shadow-sm px-[15px] py-2 bg-[#EFEFEF] text-[14px] font-semibold text-[#7A7687] hover:bg-gray-200 focus:outline-none"
         >
           <span className="flex items-center overflow-x-hidden w-[100px] whitespace-nowrap text-ellipsis">
             {selectedCategory}

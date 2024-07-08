@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
 import { NavLink } from "react-router-dom";
 import { IoIosArrowForward } from "react-icons/io";
-import Otziv_hero from "../components/Otziv_hero";
-import Konsultatsiya_loc from "../components/Konsultatsiya_loc";
+import Otziv_hero from "../components/Review/Otziv_hero";
+import Konsultatsiya_loc from "../components/DostavkaComp/Konsultatsiya_loc";
 
 const Otzivi = () => {
   useEffect(() => {

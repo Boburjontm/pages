@@ -4,16 +4,16 @@ import line from "/assets/line.svg";
 import Data from "../db/data.json";
 import { HiMinusSm, HiPlusSm } from "react-icons/hi";
 import { ShopContext } from "../../src/App";
-import Productselect from "../components/Productselect";
+import Productselect from "../components/Reanimation/PodklyuchSelect";
 import { ProductContext } from "../App";
 import { NavLink } from "react-router-dom";
-import Products from "../components/Products";
-import Kabinet from "../components/Kabinet";
+import Products from "../components/HomeComp/Products";
+import Kabinet from "../components/HomeComp/Kabinet";
 import { IoIosArrowForward } from "react-icons/io";
-import Brend from "../components/Brend";
-import Mail from "../components/Mail";
-import Miniline from "../components/Miniline";
-import Populyarnie from "../components/Populyarnie";
+import Brend from "../components/HomeComp/Brend";
+import Mail from "../components/HomeComp/Mail";
+import Miniline from "../components/StranitsaComp/Miniline";
+import Populyarnie from "../components/Reanimation/Populyarnie";
 
 const Stranitsa = () => {
   useEffect(() => {
@@ -63,7 +63,7 @@ const Stranitsa = () => {
 
   return (
     <>
-      <div className="w-[1440px] border border-black m-auto mt-[230px] mb-[60px]">
+      <div className="w-[1440px] border  m-auto mt-[230px] mb-[60px]">
         <div className="w-[1310px] m-auto">
           <div className="flex my-[20px] items-center gap-[8px]">
             <NavLink to="/">
